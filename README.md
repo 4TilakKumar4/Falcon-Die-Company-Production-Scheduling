@@ -1,7 +1,7 @@
 # FDC Production Scheduling System - Code Documentation
 
 **Version:** 1.0  
-**Author:** Production Optimization Team  
+**Author:** Tilak Kumar, Tathya Kamdar, Darsh Doshi
 **Last Updated:** December 2025
 
 ---
